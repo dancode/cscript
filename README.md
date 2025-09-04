@@ -1,2 +1,2 @@
-# cflex
-A strict C11 runtime scripting library for a minimal C subset language.
+# cscript
+A C as a scripting language tool.
